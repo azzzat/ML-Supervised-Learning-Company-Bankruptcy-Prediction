@@ -7,7 +7,8 @@ https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
 ## 📁 Project Structure
 
     data/: Dataset used for training and testing the models.
-    notebooks/: Jupyter notebooks detailing the exploratory data analysis (EDA), preprocessing, and model evaluation.
+    notebooks/: Jupyter notebooks detailing the exploratory data analysis (EDA), 
+    preprocessing, and model evaluation.
     src/: Python scripts for feature engineering, model training, and evaluation.
     results/: Visualizations, reports, and saved models.
 
@@ -49,7 +50,8 @@ Random Forest Classifier	96.78%
 Stacking Classifier	98.07%
 CatBoost	97.35%
 
-    The Stacking Classifier demonstrated the best predictive power by combining multiple base models effectively.
+    The Stacking Classifier demonstrated the best predictive power 
+    by combining multiple base models effectively.
 
 ## 🛠️ Tools & Libraries
 
